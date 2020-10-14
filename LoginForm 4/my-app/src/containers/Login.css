@@ -1,0 +1,19 @@
+.h1 {
+    padding: 100px;
+}
+.header
+{
+    text-align: center;
+}
+.form-group
+{
+    text-align: left;
+    font-size: medium;
+}
+.submit
+{
+    font-size: medium;
+}
+.forgot-password {
+    font-size: medium;
+}
